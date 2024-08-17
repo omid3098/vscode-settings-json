@@ -4,13 +4,13 @@
     color: #008c7d !important;
 } */
 
-.line-numbers {
+/* .line-numbers {
     position: relative !important;
     width: 35px !important;
     font-size: 16px !important;
     font-family: 'Geist Mono' !important;
     opacity: .3;
-}
+} */
 
 /* Code canvas top shadow */
 .monaco-editor .scroll-decoration {
