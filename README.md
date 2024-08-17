@@ -1,5 +1,7 @@
 # Instructions
 
+You can watch the reference [Youtube Video Tutorial](https://www.youtube.com/watch?v=9_I0bySQoCs) to know more about this method!
+
 **NOTE:** Please take time to read the short documentation of **"Custom CSS and JS Loader"** for some useful tips for various operating systems to avoid issues regarding the changes not taking effect.
 
 1. Install "Custom CSS and JS Loader" VS Code Extension.
